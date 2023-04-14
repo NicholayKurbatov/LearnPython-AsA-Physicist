@@ -1,6 +1,8 @@
 # Плавный вход в Python
 Здесь собраны основные quick start программы и крипты на python. В дополнении представлены полезные ссылки и гайды по установке и запуску среды программирования. 
 
+Презентацию введения с ссылками на источники можно взять по [ссылке](https://docs.google.com/presentation/d/1Y0ykNofupLzioS66xSxleAm_sMVdBT1Z/edit?usp=share_link&ouid=117033173110504155765&rtpof=true&sd=true)
+
 ## Оглавление
 
 1. [Установка Python :hatching_chick:](#установка-python)
@@ -15,7 +17,9 @@ ____
 ## Установка Python
 Python определенной версии можно скачать на официальном [сайте](https://www.python.org/downloads/).
 При открытии файла установки поставьте галочку как на картинке и запустите Install Now:
-![](/media/install-python-1.jpg=100x20)
+<p align="center">
+    <img src=./media/install-python-1.jpg width="450" height="300" />
+</p>
 
 Проверить успех установки можно так. Откройте командную строку (cmd, powershell) и выполните команду: 
 ```console
